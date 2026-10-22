@@ -55,4 +55,4 @@ dsh plugin --profile desktop add <repo>/plugin
 
 ## License
 
-未附带开源许可证，默认保留所有权利。需要公开发布时请先补充 LICENSE。
+本项目使用 MIT License，详见 [LICENSE](LICENSE)。

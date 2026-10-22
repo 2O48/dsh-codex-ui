@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "description": "Codex-style rail skin for DeepSeek Harness: a persistent icon rail, the project/session column, and a full-width conversation pane.",
+  "license": "MIT",
   "type": "module",
   "exports": {
     ".": "./index.js",
