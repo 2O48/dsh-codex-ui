@@ -1,0 +1,44 @@
+# Agent / conversation artifacts
+.agent/
+.agents/
+agent/
+agents/
+.history/
+history/
+sessions/
+*.history
+*.log
+
+# Local DSH research and extracted application files
+.dsh/
+.dsh-app/
+research/
+.research/
+
+# Dependencies and package-manager caches
+node_modules/
+.pnpm-store/
+.npm-cache/
+.pnpm-cache/
+.npm/
+npm-debug.log*
+pnpm-debug.log*
+
+# Build output and temporary files
+dist/
+build/
+out/
+.tmp/
+temp/
+*.tmp
+*.bak
+*.zip
+*.7z
+*.tar.gz
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
